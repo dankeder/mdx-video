@@ -1,6 +1,6 @@
-from distutils.core import setup
+from setuptools import setup, find_packages
 
-version = '0.1.7.5'
+version = '0.1.7.6'
 
 setup(
     name='mdx_video',
